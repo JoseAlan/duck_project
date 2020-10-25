@@ -1,0 +1,17 @@
+#bduck{
+    background: black;
+    border-color: black;
+    border-radius: 50px;
+    color: white;
+}
+
+#bduck:hover{
+    background: blue;
+    border-color: blue;
+    transition-duration: 0.4s;
+    color: white;
+}
+
+.show{
+    background: gray;
+}
